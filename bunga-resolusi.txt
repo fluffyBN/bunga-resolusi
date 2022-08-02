@@ -1,3 +1,4 @@
 bunga resolusi
 -konsisten latihan coding
 -membuat project untuk latihan coding
+-bercita-cita membuat kalender
